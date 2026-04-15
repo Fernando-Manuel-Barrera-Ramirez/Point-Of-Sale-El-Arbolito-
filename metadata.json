@@ -1,0 +1,5 @@
+{
+  "name": "QuickPOS MVP",
+  "description": "A modern, mobile-first Point of Sale system with barcode scanning and inventory management.",
+  "requestFramePermissions": ["camera"]
+}
